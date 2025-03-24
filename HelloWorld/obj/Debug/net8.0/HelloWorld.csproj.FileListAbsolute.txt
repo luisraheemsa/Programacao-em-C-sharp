@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

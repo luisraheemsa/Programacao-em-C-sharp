@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/Course/bin/Debug/net8.0/Course
+/home/lu/Projects/Programacao-em-C-sharp/Course/bin/Debug/net8.0/Course.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/Course/bin/Debug/net8.0/Course.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/Course/bin/Debug/net8.0/Course.dll
+/home/lu/Projects/Programacao-em-C-sharp/Course/bin/Debug/net8.0/Course.pdb
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/Course.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/Course.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/Course.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/Course.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/Course.dll
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/refint/Course.dll
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/Course.pdb
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/Course.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/Course/obj/Debug/net8.0/ref/Course.dll
