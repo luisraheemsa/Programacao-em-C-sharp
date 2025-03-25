@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos.dll
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/bin/Debug/net8.0/OperadoresAritmeticos.pdb
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.dll
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/refint/OperadoresAritmeticos.dll
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.pdb
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/OperadoresAritmeticos.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/OperadoresAritmeticos/obj/Debug/net8.0/ref/OperadoresAritmeticos.dll

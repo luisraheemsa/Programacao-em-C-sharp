@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/bin/Debug/net8.0/OperadorAtribuicao
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/bin/Debug/net8.0/OperadorAtribuicao.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/bin/Debug/net8.0/OperadorAtribuicao.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/bin/Debug/net8.0/OperadorAtribuicao.dll
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/bin/Debug/net8.0/OperadorAtribuicao.pdb
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/OperadorAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/OperadorAtribuicao.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/OperadorAtribuicao.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/OperadorAtribuicao.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/OperadorAtribuicao.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/OperadorAtribuicao.dll
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/refint/OperadorAtribuicao.dll
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/OperadorAtribuicao.pdb
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/OperadorAtribuicao.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/OperadorAtribuicao/obj/Debug/net8.0/ref/OperadorAtribuicao.dll

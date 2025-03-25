@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/bin/Debug/net8.0/VarImplicitaeCasting
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/bin/Debug/net8.0/VarImplicitaeCasting.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/bin/Debug/net8.0/VarImplicitaeCasting.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/bin/Debug/net8.0/VarImplicitaeCasting.dll
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/bin/Debug/net8.0/VarImplicitaeCasting.pdb
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/VarImplicitaeCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/VarImplicitaeCasting.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/VarImplicitaeCasting.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/VarImplicitaeCasting.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/VarImplicitaeCasting.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/VarImplicitaeCasting.dll
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/refint/VarImplicitaeCasting.dll
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/VarImplicitaeCasting.pdb
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/VarImplicitaeCasting.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/VarImpricitaeCasting/obj/Debug/net8.0/ref/VarImplicitaeCasting.dll
