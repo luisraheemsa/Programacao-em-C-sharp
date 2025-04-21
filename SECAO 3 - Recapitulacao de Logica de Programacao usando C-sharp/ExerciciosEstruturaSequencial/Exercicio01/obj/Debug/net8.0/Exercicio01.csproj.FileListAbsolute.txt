@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/bin/Debug/net8.0/Exercicio01
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/bin/Debug/net8.0/Exercicio01.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/bin/Debug/net8.0/Exercicio01.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/bin/Debug/net8.0/Exercicio01.dll
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/bin/Debug/net8.0/Exercicio01.pdb
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/Exercicio01.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/Exercicio01.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/Exercicio01.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/Exercicio01.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/Exercicio01.dll
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/refint/Exercicio01.dll
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/Exercicio01.pdb
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/Exercicio01.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio01/obj/Debug/net8.0/ref/Exercicio01.dll

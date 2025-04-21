@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/EntradaDados.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/EntradaDados.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/EntradaDados.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/EntradaDados.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/bin/Debug/net8.0/EntradaDados
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/bin/Debug/net8.0/EntradaDados.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/bin/Debug/net8.0/EntradaDados.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/bin/Debug/net8.0/EntradaDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/bin/Debug/net8.0/EntradaDados.pdb
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/EntradaDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/refint/EntradaDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/EntradaDados.pdb
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/EntradaDados.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/EntradaDados/obj/Debug/net8.0/ref/EntradaDados.dll

@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/bin/Debug/net8.0/Exercicio02
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/bin/Debug/net8.0/Exercicio02.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/bin/Debug/net8.0/Exercicio02.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/bin/Debug/net8.0/Exercicio02.dll
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/bin/Debug/net8.0/Exercicio02.pdb
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/Exercicio02.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/Exercicio02.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/Exercicio02.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/Exercicio02.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/Exercicio02.dll
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/refint/Exercicio02.dll
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/Exercicio02.pdb
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/Exercicio02.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/ExerciciosEstruturaSequencial/Exercicio02/obj/Debug/net8.0/ref/Exercicio02.dll

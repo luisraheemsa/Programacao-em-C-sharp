@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/bin/Debug/net8.0/usandoSplit
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/bin/Debug/net8.0/usandoSplit.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/bin/Debug/net8.0/usandoSplit.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/bin/Debug/net8.0/usandoSplit.dll
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/bin/Debug/net8.0/usandoSplit.pdb
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/usandoSplit.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/usandoSplit.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/usandoSplit.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/usandoSplit.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/usandoSplit.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/usandoSplit.dll
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/refint/usandoSplit.dll
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/usandoSplit.pdb
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/usandoSplit.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/usandoSplit/obj/Debug/net8.0/ref/usandoSplit.dll
