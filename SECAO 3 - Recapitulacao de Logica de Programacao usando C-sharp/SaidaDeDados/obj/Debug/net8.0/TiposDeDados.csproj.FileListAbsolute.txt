@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/bin/Debug/net8.0/TiposDeDados
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/bin/Debug/net8.0/TiposDeDados.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/bin/Debug/net8.0/TiposDeDados.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/bin/Debug/net8.0/TiposDeDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/bin/Debug/net8.0/TiposDeDados.pdb
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/TiposDeDados.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/TiposDeDados.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/TiposDeDados.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/TiposDeDados.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/TiposDeDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/refint/TiposDeDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/TiposDeDados.pdb
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/TiposDeDados.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/TiposDeDados/obj/Debug/net8.0/ref/TiposDeDados.dll

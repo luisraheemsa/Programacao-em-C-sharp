@@ -1,0 +1,15 @@
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados.deps.json
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados.runtimeconfig.json
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/bin/Debug/net8.0/SaidaDeDados.pdb
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.AssemblyInfoInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.AssemblyInfo.cs
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.csproj.CoreCompileInputs.cache
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.sourcelink.json
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/refint/SaidaDeDados.dll
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.pdb
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/SaidaDeDados.genruntimeconfig.cache
+/home/lu/Projects/Programacao-em-C-sharp/SECAO 3 - Recapitulacao de Logica de Programacao usando C-sharp/SaidaDeDados/obj/Debug/net8.0/ref/SaidaDeDados.dll
